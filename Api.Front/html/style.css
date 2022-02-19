@@ -1,0 +1,16 @@
+div#formulario {
+    color: #505050;
+    font: 18px 'Segoe UI', tahoma, arial, helvetica, sans-serif;
+    margin: 28px;
+    padding: 0;
+	text-align: justify;
+	
+button {
+	
+	color: black;
+    font: 15px 'Segoe UI', tahoma, arial, helvetica, sans-serif;
+	background-color: #d3d3d3;
+    padding: 5;
+	text-align: justify;
+	border-radius: 7px;
+}
